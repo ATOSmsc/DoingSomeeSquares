@@ -99,7 +99,7 @@ body
 /* GIF */
 .my-element 
 {
-    background-image: url('saw-gif-.gif');
+    background-image: url('../img/saw-gif-.gif');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
